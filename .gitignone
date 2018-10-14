@@ -1,0 +1,33 @@
+*.class
+#pachage file
+*.war
+*.ear
+
+#kdiff3 ignone
+*.orig
+
+#maven ignone
+target/
+
+#eclepse ignone
+.settings/
+.project
+.classpath
+
+#idea ignone
+./idea
+/idea/
+*.ipr
+*.iml
+*.iws
+
+#temp file
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+#system ignone
+.DS_Store
+Thumbs.db
